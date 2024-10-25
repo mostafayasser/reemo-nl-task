@@ -169,7 +169,8 @@ class _RegistrationViewState extends State<RegistrationView> {
                           });
                         },
                       ),
-                      validator: (val) => Validators.validatePassword(val),
+                      validator: (val) => Validators.validateConfirmPassword(
+                          val, _passwordController.text.trim()),
                     ),
                     const SizedBox(height: 32),
                     Center(
