@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922881399744",
+    "project_id": "reemo-nl-task",
+    "storage_bucket": "reemo-nl-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922881399744:android:ee633afb3814d092ba0625",
+        "android_client_info": {
+          "package_name": "com.app.reemoNlTask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiSygW10MB1AQbFTwZyR9-kjl8vzLEMGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
